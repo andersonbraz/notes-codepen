@@ -9,7 +9,9 @@ Usando estilização com Bootstrap para teste ou prova de algum conceito com Rea
 ### CSS
 
 CSS Preprocessor = None
+
 CSS Base = Neither
+
 Vendor Prefixing = Neither
 
 ```shell
@@ -33,7 +35,9 @@ Usando estilização com Matrial para teste ou prova de algum conceito com React
 ### CSS
 
 CSS Preprocessor = None
+
 CSS Base = Neither
+
 Vendor Prefixing = Neither
 
 ```shell
