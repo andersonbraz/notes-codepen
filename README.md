@@ -8,6 +8,10 @@ Usando estilização com Bootstrap para teste ou prova de algum conceito com Rea
 
 ### CSS
 
+CSS Preprocessor = None
+CSS Base = Neither
+Vendor Prefixing = Neither
+
 ```shell
 https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css
@@ -38,6 +42,8 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css
 ```
 
 ### Javascript
+
+JavaScript Preprocessor = Babel
 
 ```shell
 https://unpkg.com/react@16/umd/react.development.js
