@@ -15,6 +15,8 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css
 
 ### Javascript
 
+JavaScript Preprocessor = Babel
+
 ```shell
 https://unpkg.com/react@16/umd/react.development.js
 https://unpkg.com/react-dom@16/umd/react-dom.development.js
@@ -25,6 +27,10 @@ https://unpkg.com/react-dom@16/umd/react-dom.development.js
 Usando estilização com Matrial para teste ou prova de algum conceito com ReactJs.
 
 ### CSS
+
+CSS Preprocessor = None
+CSS Base = Neither
+Vendor Prefixing = Neither
 
 ```shell
 https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css
@@ -63,9 +69,9 @@ const UserConsumer = UserContext.Consumer;
 class App extends React.Component {
   state = {
     user: {
-      username: 'jioke',
-      firstName: 'Kingsley',
-      lastName: 'Silas'
+      username: 'joaorossi',
+      firstName: 'João',
+      lastName: 'Rossi'
     }
   }
 
@@ -76,7 +82,7 @@ class App extends React.Component {
       </div>
     )
   }
-  
+
 }
 
 const User = () => (
