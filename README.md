@@ -1,2 +1,11 @@
-# notes-codepen
-Minhas notas de configurações para Codepen.
+# Minhas Notas Codepen
+
+Minhas anotações de configurações para Codepen.
+
+## React
+
+### CSS
+
+
+
+### Javascript
