@@ -18,7 +18,6 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css
 ```shell
 https://unpkg.com/react@16/umd/react.development.js
 https://unpkg.com/react-dom@16/umd/react-dom.development.js
-https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 ```
 
 ## React + Material
@@ -37,5 +36,12 @@ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css
 ```shell
 https://unpkg.com/react@16/umd/react.development.js
 https://unpkg.com/react-dom@16/umd/react-dom.development.js
+```
+
+## Bundle FreeCodeCamp
+
+Para os exercícios do FreeCodeCamp lembrar de adicionar o seguinte Javascript:
+
+```shell
 https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 ```
